@@ -86,7 +86,7 @@ Summarizes the project results and highlights potential improvements, such as in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/text-generation-model.git
+   git clone https://github.com/termux2o/text-generation-model.git
    cd text-generation-model
    ```
 
