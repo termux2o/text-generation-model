@@ -106,16 +106,6 @@ Summarizes the project results and highlights potential improvements, such as in
 
 ---
 
-## Results
-
-The trained model can generate realistic text sequences resembling the training data. For example:
-
-```
-Generated text:
-"Elizabeth was delighted. She had never seen a man so little qualified to recommend himself to a woman."
-```
-
----
 
 ## Future Work
 
